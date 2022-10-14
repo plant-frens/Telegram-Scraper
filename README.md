@@ -29,18 +29,4 @@ Scrape members
 >python scraper.py
 
 
-# OTHER TOOLS
-I have drainer tools available. 
-
->SOLANA DRAINER
-
-REPO - https://github.com/cyberghosted-dev/solana-nft-drainer
-
->ETHEREUM DRAINER
-
-REPO - https://github.com/cyberghosted-dev/ethereum-wallet-drainer
-
->CONTACT DEVELOPER
-https://t.me/cyberghosted 
-
 
