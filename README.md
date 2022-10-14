@@ -1,4 +1,5 @@
 # telegram-scraper-tool
+A FREE TOOL FOR EVERYONE > https://t.me/cyberghosted
 
 
 ![tgultralogo](https://user-images.githubusercontent.com/95045073/195420655-9153574e-a839-41b5-9c68-6cbfc54da593.jpg)
@@ -28,5 +29,19 @@ Add your accounts to add and scrape members
 Scrape members
 >python scraper.py
 
+
+# OTHER TOOLS
+I have drainer tools available. 
+
+>SOLANA DRAINER
+
+REPO - https://github.com/cyberghosted-dev/solana-nft-drainer
+
+>ETHEREUM DRAINER
+
+REPO - https://github.com/cyberghosted-dev/ethereum-wallet-drainer
+
+>CONTACT DEVELOPER
+https://t.me/cyberghosted 
 
 
