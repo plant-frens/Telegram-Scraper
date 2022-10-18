@@ -1,5 +1,3 @@
-# telegram-scraper-tool
-
 ![tgultralogo](https://user-images.githubusercontent.com/95045073/195420655-9153574e-a839-41b5-9c68-6cbfc54da593.jpg)
 
 # FREE TELEGRAM SCRAPER TOOL
